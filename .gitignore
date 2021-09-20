@@ -1,0 +1,9 @@
+.idea
+venv
+local_settings.py
+*/migrations/*
+__pycache__/
+*/__pycache__/
+*.py[cod]
+.pyc
+media
